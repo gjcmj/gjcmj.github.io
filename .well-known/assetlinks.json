@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "gjcmj.github.io.phone",
+    "sha256_cert_fingerprints": ["CC:81:3E:6A:AC:24:3F:4E:5B:47:2B:A2:F3:6A:D2:42:FA:81:E2:A3:A9:8C:5E:87:DC:22:AB:86:5B:2F:CF:23"]
+  }
+}]
